@@ -8,9 +8,9 @@ box-sizing: border-box;
     width: 115px;
     font-size: 25px;
     color: #ffffff;
-    padding: 15px;
+    padding: 1%;
     text-align: center;
-    margin-left: 5px;
+    margin-left: .5%;
 }
 
 body{
@@ -18,8 +18,8 @@ body{
 }
 
 header{
-    padding-bottom: 25px;
-    margin-bottom: 30px;
+    padding-bottom: 2%;
+    margin-bottom: 2%;
     width: 100%;
     background-color: white;
     border-bottom: 1.5px solid;
@@ -62,8 +62,8 @@ h2{
 .content{
     max-width: 960px;
     margin: 0 auto;
-    padding: 13px;
-    margin-bottom: -30px;
+    padding: 2%;
+    margin-bottom: -2%;
     background-color: white;
     min-height: auto;
     font-size: 18px;
@@ -130,11 +130,11 @@ input, textarea{
     border-radius: 5px;
     border: 2px solid teal;
     font-size: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 2%;
 }
 
 textarea{
-    height: 150px;
+    height: 40%;
 }
 
 button[type="submit"]{
