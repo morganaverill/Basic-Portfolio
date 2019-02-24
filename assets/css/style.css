@@ -1,0 +1,95 @@
+* {
+box-sizing: border-box;
+}
+
+body{
+    background-image: url("./assets/images/background.jpg");
+}
+
+.my_name{
+    background-color: teal;
+    height: 70px;
+    width: 115px;
+    font-size: 25px;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+    margin-left: 300px;
+    padd
+}
+
+header{
+    padding-bottom: 25px;
+    margin-bottom: 30px;
+    width: 100%;
+    background-color: white;
+    border-color: "#cccccc";
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav{
+    float: right;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+.nav_link{
+    list-style: none;
+    display: inline;
+    color: gray;
+}
+
+.nav_link:hover{
+    background-color: lightgrey;
+}
+.header_nav{
+    width: 960px;
+    margin: 0 auto;
+}
+
+h2{
+    font-size: 23px;
+    color: teal;
+}
+.content{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 13px;
+    min-height: 100%;
+    margin-bottom: -30px;
+    background-color: white;
+    height: 300px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#me{
+    float: left;
+    margin-right: 25px;
+}
+
+p{
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+
+.move, footer{
+    height: 50px;
+}
+
+.move{
+    background-color: teal;
+    height: 10px;
+}
+footer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: dimgrey;
+    font-size: 11px;
+    color: white;
+    padding: 15px;
+    bottom: 0;
+    padding-top: 15px;
+}
