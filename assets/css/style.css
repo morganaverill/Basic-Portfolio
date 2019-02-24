@@ -14,7 +14,7 @@ box-sizing: border-box;
 }
 
 body{
-    background-color: lightgrey;
+    background-image: url("./../images/background.jpg");
 }
 
 header{
